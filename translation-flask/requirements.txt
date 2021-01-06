@@ -1,0 +1,6 @@
+flask==1.0.2
+flask_cors==3.0.9
+numpy==1.19.2
+tensorflow-cpu==2.4.0
+keras==2.4.3
+gunicorn==20.0.4
